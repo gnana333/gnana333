@@ -25,6 +25,7 @@
 - 🌐 Web Dev | Cloud | DSA | Competitive Programming  
 - 🚀 Certified in IBM Python, NPTEL Cloud Computing  
 - 🛠️ Interned at Codeworks EduTech (Web Development)  
+- 📦 GitHub Repositories: **30+ Projects**  
 - 📬 Contact me: gnana97046@gmail.com  
 
 [![LinkedIn: gnanendra-reddy](https://img.shields.io/badge/-gnanendra--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gnanendra-reddy/)  
@@ -36,29 +37,38 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
 ### 🛠️ Languages and Tools:
-<p align="left">
+#### 💻 Programming Languages
+<p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</p>
+
+#### 🌐 Web Technologies
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</p>
+
+#### 🛢️ Databases
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/supabase/supabase/master/apps/docs/public/img/supabase-logo-icon.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</p>
+
+#### ⚙️ Tools & Deployment Platforms
+<p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" src="https://www.svgrepo.com/show/354329/vercel-icon.svg" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Render_logo.png" />
+  <img height="40" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnanendrareddy&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanendrareddy&layout=compact&theme=radical" height="180px"/>
-</p>
-
----
 
 ### 💡 LeetCode Stats
 <p align="left">
