@@ -13,17 +13,17 @@
 <br/>
 <br/>
 
-- 💻 Final Year CSE Student | Full-Stack & AI Enthusiast
-- 🧠 Solved 150+ problems on HackerRank (Gold Badge in Python), 50+ on LeetCode, and 130+ on CodeChef
-- 🔧 Skilled in Python, JavaScript, Java, C, and C#
-- 🌐 Web Dev | IoT | Cloud | DSA | Competitive Programming
-- 🚀 Certified in IBM Python, NPTEL Cloud Computing
-- 🛠️ Interned at MakeSkilled (IoT) and Codeworks EduTech (Web Dev)
-- 📬 Contact me: gnana97046@gmail.com
+- 💻 Final Year CSE Student | Full-Stack & AI Enthusiast  
+- 🧠 Solved 150+ problems on HackerRank (Gold Badge in Python), 50+ on LeetCode, and 130+ on CodeChef  
+- 🔧 Skilled in Python, JavaScript, Java, C, and C#  
+- 🌐 Web Dev | IoT | Cloud | DSA | Competitive Programming  
+- 🚀 Certified in IBM Python, NPTEL Cloud Computing  
+- 🛠️ Interned at MakeSkilled (IoT) and Codeworks EduTech (Web Dev)  
+- 📬 Contact me: gnana97046@gmail.com  
 
-[![LinkedIn: gnanendra-reddy](https://img.shields.io/badge/-gnanendra--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gnanendra-reddy/)
-[![GitHub: gnanendrareddy](https://img.shields.io/github/followers/gnanendrareddy?label=Follow&style=social)](https://github.com/gnanendrareddy)
-[![LeetCode: gnana333](https://img.shields.io/badge/LeetCode-gnana333-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/gnana333/)
+[![LinkedIn: gnanendra-reddy](https://img.shields.io/badge/-gnanendra--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gnanendra-reddy/)  
+[![GitHub: gnanendrareddy](https://img.shields.io/github/followers/gnanendrareddy?label=Follow&style=social)](https://github.com/gnanendrareddy)  
+[![LeetCode: gnana333](https://img.shields.io/badge/LeetCode-gnana333-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/gnana333/)  
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
@@ -53,12 +53,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanendrareddy&layout=compact&theme=dark" />
 </a>
 
+---
+
+### 💡 LeetCode Stats
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/gnana333?theme=dark&font=Baloo+Bhai&ext=heatmap" />
+</p>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
 ### 📌 Highlight Projects
-- **[Email Alert Bot](https://github.com/gnana333/EmailAlertBot)** - AI-powered email filtering to Telegram  
-- **[My Portfolio](https://github.com/gnana333/My-portfolio)** - Responsive personal portfolio using HTML/CSS/JS  
-- **[Text-to-Speech Converter](https://github.com/gnana333/Text-to-speech-Converter)** - Real-time speech synthesis web app
+- **[Email Alert Bot](https://github.com/gnana333/EmailAlertBot)** – AI-powered email filtering to Telegram  
+- **[My Portfolio](https://github.com/gnana333/My-portfolio)** – Responsive personal portfolio using HTML/CSS/JS  
+- **[Text-to-Speech Converter](https://github.com/gnana333/Text-to-speech-Converter)** – Real-time speech synthesis web app  
 
 ---
 
