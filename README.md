@@ -24,8 +24,7 @@
 - 🔧 Skilled in Python, JavaScript, Java, C, and C#  
 - 🌐 Web Dev | Cloud | DSA | Competitive Programming  
 - 🚀 Certified in IBM Python, NPTEL Cloud Computing  
-- 🛠️ Interned at Codeworks EduTech (Web Development)  
-- 📦 GitHub Repositories: **30+ Projects**  
+- 🛠️ Interned at MakeSkilled(IOT) and Interned at Codeworks EduTech (Web Development)  
 - 📬 Contact me: gnana97046@gmail.com  
 
 [![LinkedIn: gnanendra-reddy](https://img.shields.io/badge/-gnanendra--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gnanendra-reddy/)  
