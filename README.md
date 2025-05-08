@@ -51,9 +51,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="40" src="https://www.svgrepo.com/show/354329/vercel-icon.svg" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Render_logo.png" />
-  <img height="40" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
+ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
