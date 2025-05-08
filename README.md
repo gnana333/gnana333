@@ -20,7 +20,7 @@
 <br/>
 
 - 💻 Computer Science Graduate | Full-Stack & AI Enthusiast  
-- 🧠 Solved 150+ problems on HackerRank (Gold Badge in Python), 50+ on LeetCode, and 130+ on CodeChef  
+- 🧠 Solved 100+ problems on HackerRank (Gold Badge in Python), 100+ on LeetCode, and 50+ on CodeChef  
 - 🔧 Skilled in Python, JavaScript, Java, C, and C#  
 - 🌐 Web Dev | Cloud | DSA | Competitive Programming  
 - 🚀 Certified in IBM Python, NPTEL Cloud Computing  
