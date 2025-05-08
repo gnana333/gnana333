@@ -50,19 +50,8 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <!-- Vercel -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
-
-<!-- Render (custom-hosted icon) -->
-<img height="40" src="https://raw.githubusercontent.com/gnanendrareddy/assets/main/icons/render-logo.svg" />
-
-<!-- Netlify -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" />
-
-<!-- Supabase (custom-hosted icon) -->
-<img height="40" src="https://raw.githubusercontent.com/gnanendrareddy/assets/main/icons/supabase-icon.svg" />
-
- 
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" />
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
