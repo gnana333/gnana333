@@ -23,7 +23,7 @@
 - 🧠 Solved 100+ problems on HackerRank (Gold Badge in Python), 100+ on LeetCode, and 50+ on CodeChef  
 - 🔧 Skilled in Python, JavaScript, Java, C, and C#  
 - 🌐 Web Dev | Cloud | DSA | Competitive Programming  
-- 🚀 Certified in IBM Python, NPTEL Cloud Computing  
+- 🚀 Certified in Python
 - 🛠️ Interned at MakeSkilled(IOT) and Interned at Codeworks EduTech (Web Development)  
 - 📬 Contact me: gnana97046@gmail.com  
 
@@ -36,7 +36,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
 ### 🛠️ Languages and Tools:
-#### 💻 Programming Languages
 <p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
